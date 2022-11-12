@@ -1,0 +1,90 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Piyush",
+      "email": "piyush@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Vikas",
+      "email": "vikas@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "vikas2",
+      "email": "vikas2@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "karan",
+      "email": "karan@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "karan",
+      "email": "karan@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "karan",
+      "email": "karan@gmail.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "name": "Piyus",
+      "email": "Pus@gmail.com",
+      "password": "123",
+      "id": 8
+    }
+  ],
+  "commants": [
+    {
+      "id": 1,
+      "commaint": "Good work piyush"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Testone",
+      "contact": 123456789,
+      "address": "testAddressOne",
+      "id": 1
+    },
+    {
+      "name": "restName",
+      "contact": 123456,
+      "address": "testAddress",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Burger King",
+      "contact": "12345678",
+      "address": "testAddress"
+    },
+    {
+      "name": "K F C ",
+      "contact": "12345678",
+      "address": "testAddressTwo",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "KING",
+      "contact": "12345678",
+      "address": "testAddress"
+    }
+  ]
+}
